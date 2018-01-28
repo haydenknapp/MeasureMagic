@@ -36,6 +36,8 @@ def formPage(status):
         ret += "<br>Please fill in missing data and resubmit<br>"
     return ret
 
+# source for first paragraph of the elaboration https://wiki.installgentoo.com/index.php/Interjection
+
 @route('/fabrics', method = 'POST')
 def fabricsPage():
     neckCircumference = int(request.forms.get('neckCircumference'))
