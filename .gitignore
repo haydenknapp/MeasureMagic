@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/MeasureMagic/v15/.suo
+/.vs/MeasureMagic/v15
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/MeasureMagic/v15/.suo
+/.vs/MeasureMagic/v15
